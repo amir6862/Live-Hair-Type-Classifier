@@ -1,1 +1,2 @@
 # Live-Hair-Type-Classifier
+This project features a real-time hair type detection system powered by the YOLOv8 object detection model. It identifies and classifies various hair types—including straight, wavy, curly, kinky, and dreadlocks—directly from a live webcam stream. The system overlays bounding boxes and confidence scores with hair type labels on the video feed, offering immediate visual feedback.
